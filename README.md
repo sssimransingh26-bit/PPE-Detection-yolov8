@@ -1,5 +1,7 @@
 # PPE Detection using YOLOv8
 
+[🚀 Live Demo](https://ppe-detection-yolov8-zz.streamlit.app)
+
 An AI-based **Personal Protective Equipment (PPE) Detection System** for construction-site safety. The project uses **YOLOv8** to detect PPE and identify missing safety equipment from construction-site images.
 
 ## Overview
